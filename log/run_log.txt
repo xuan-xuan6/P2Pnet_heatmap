@@ -1,0 +1,2 @@
+Eval Log Wed Nov 20 15:18:25 2024
+Namespace(backbone='vgg16_bn', batch_size=2, checkpoints_dir='./ckpt', clip_max_norm=0.1, data_root='D:\\code\\CrowdCounting-P2PNet\\P2Pnet_dataset_crop', dataset_file='SHHA', eos_coef=0.5, epochs=1000, eval=False, eval_freq=100, frozen_weights=None, gpu_id=0, line=2, lr=0.0001, lr_backbone=1e-05, lr_drop=1000, num_workers=8, output_dir='./log', point_loss_coef=0.0002, resume='', row=2, seed=42, set_cost_class=1, set_cost_point=0.05, start_epoch=0, tensorboard_dir='./runs', weight_decay=0.0001)
